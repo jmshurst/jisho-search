@@ -1,4 +1,1 @@
-*.popclipext
-source/*.popclipextz
 .DS_Store
-*.pyc
