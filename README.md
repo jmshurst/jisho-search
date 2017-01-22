@@ -15,7 +15,7 @@ This is an extension for [PopClip][1]. It allows you to search [Jisho.org][2]. Y
 6. Accept the warning for adding popclip extensions that are 3rd party
 7. Test that the new popclip extension works by (1) Making sure it is enabled in popclip (2) highlighting text with a mouse and clicking the new popclip extension when it appears
 
-*** Popclip can be downloaded from the Mac App Store. Steps above assume that you have PopClip installed.
+*Popclip can be downloaded from the Mac App Store. Steps above assume that you have PopClip installed.*
 
 The .popclipext package (https://github.com/pilotmoon/PopClip-Extensions)
 
